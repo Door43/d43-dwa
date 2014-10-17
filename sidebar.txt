@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dwa:home|Door43 (dwa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dwa|d43-dwa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dwa/archive/master.zip|d43-dwa.zip]]
+
+**Recent Changes**
+{{changes>ns = dwa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dwa|Ethnologue data]]
+
